@@ -1,5 +1,7 @@
 Landing Page de Panificadora e Cafeteria Responsiva feita com Html, css e Js. 
 </br>
+<i>Link:<i/> https://jellyfish-app-a3njl.ondigitalocean.app/
+</br>
 <b> Desktop View </b>
 </br>
 ![Screenshot 2024-01-23 204311](https://github.com/leonib/lp-nobre/assets/68371257/4f73e225-9fef-403f-8fcb-a1c64f1e6931)
