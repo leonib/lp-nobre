@@ -7,7 +7,8 @@ Landing Page de Panificadora e Cafeteria Responsiva feita com Html, css e Js.
 ![Screenshot 2024-01-23 204321](https://github.com/leonib/lp-nobre/assets/68371257/9b1ebd41-5f8d-4c7f-b956-14606382cc34)
 </br>
 ![Screenshot 2024-01-23 204334](https://github.com/leonib/lp-nobre/assets/68371257/11401724-72a0-4f23-80dd-f9ac278e342d)
-<b> Mobile View </b>
+<b>Mobile View</b>
+</br>
 ![Screenshot 2024-01-23 204636](https://github.com/leonib/lp-nobre/assets/68371257/c2b91352-f5bf-4399-8cbc-742477a18bb4)
 </br>
 ![Screenshot 2024-01-23 204645](https://github.com/leonib/lp-nobre/assets/68371257/8b9d11b2-5184-4065-b9a3-95d399780ad9)
